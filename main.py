@@ -2,8 +2,8 @@ import streamlit as st
 
 # Page configuration
 st.set_page_config(
-    page_title="Indian Software Developer Career Hub",
-    page_icon="🇮🇳",
+    page_title="SOFTWARE DEVELOPER BY ARHAAN",
+    page_icon="👨‍💻",
     layout="wide"
 )
 

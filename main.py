@@ -89,7 +89,7 @@ st.markdown("""
 
 # Sidebar Navigation
 with st.sidebar:
-    st.title("🇮🇳 Navigation")
+    st.title("🧭 Navigation")
     page = st.radio(
         "Go to:",
         ["🏠 Home", "💰 Salaries", "📚 Study Pathway", "🎓 Top Indian Colleges", "🏢 Top Indian Companies", "📈 Trends"]
@@ -99,7 +99,7 @@ with st.sidebar:
 
 # ---------- HOME PAGE ----------
 if page == "🏠 Home":
-    st.markdown('<h1 class="main-header">🇮🇳 Indian Software Developer Career Hub</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">👨‍💻 Software Developer Career Hub</h1>', unsafe_allow_html=True)
     st.markdown("### Your complete guide to becoming a successful software developer in India")
 
     col1, col2, col3, col4 = st.columns(4)  
@@ -376,11 +376,11 @@ st.markdown("""
 <div class="footer">  
     <h3> Developed by Arhaan</h3>  
     <p style="color: white; margin-top: 0.5rem;">  
-        Building the future of Indian tech, one developer at a time ✨<br>  
+        Building the future of Indian tech ✨<br>  
      | Made with love ❤️ 
     </p>  
     <p style="color: #FFD4C4; font-size: 0.9rem; margin-top: 1rem;">  
-        Made with ❤️ for the Indian developer community  
+        For the Indian developer community  
     </p>  
 </div>  
 """, unsafe_allow_html=True)

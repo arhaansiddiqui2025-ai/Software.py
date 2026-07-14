@@ -374,10 +374,10 @@ elif page == "📈 Trends":
 st.divider()
 st.markdown("""
 <div class="footer">  
-    <h3>🇮🇳 Developed by Arhaan</h3>  
+    <h3> Developed by Arhaan</h3>  
     <p style="color: white; margin-top: 0.5rem;">  
         Building the future of Indian tech, one developer at a time ✨<br>  
-        📧 Connect with me for career guidance | 📱 Follow for more tech insights  
+     | Made with love ❤️ 
     </p>  
     <p style="color: #FFD4C4; font-size: 0.9rem; margin-top: 1rem;">  
         Made with ❤️ for the Indian developer community  
